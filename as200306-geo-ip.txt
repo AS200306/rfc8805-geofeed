@@ -1,0 +1,10 @@
+# AS200306 Geofeed, last updated (rfc3339): 2025-01-13T10:30:53+00:00
+# Self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805
+# ip_prefix,alpha2code,region,city,postal_code
+44.32.138.0/24,BG,BG-22,Sofia,
+2001:678:7e0::/48,BG,BG-22,Sofia,
+2001:67c:2c40::/48,BG,BG-22,Sofia,
+2a06:a005:af0::/44,BG,BG-22,Sofia,
+2a06:a005:b00::/44,BG,BG-22,Sofia,
+2a06:a005:c00::/44,BG,BG-22,Sofia,
+2a06:a005:c10::/44,BG,BG-22,Sofia,
